@@ -1,0 +1,7 @@
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\bin\Debug\DisconnectedModelExample.exe.config
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\bin\Debug\DisconnectedModelExample.exe
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\bin\Debug\DisconnectedModelExample.pdb
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\obj\Debug\DisconnectedModelExample.csprojAssemblyReference.cache
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\obj\Debug\DisconnectedModelExample.csproj.CoreCompileInputs.cache
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\obj\Debug\DisconnectedModelExample.exe
+D:\Tejakrishna\Teja\DisconnectedModelExample\DisconnectedModelExample\obj\Debug\DisconnectedModelExample.pdb
